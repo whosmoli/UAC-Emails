@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color: #0a3a5b;
+  text-align: justify;
+  max-width: 500px;">
+
+<nav ><ul style="list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 5%;
+  overflow: hidden;
+  background-color: #0a3a5b;
+  position: sticky;
+  top: 0;
+  max-width: 500px;">
+  <li style="float: left;"><a href="https://www.facebook.com/events/2386904368257003/?ti=icl" style="display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: avenir;
+  text-decoration: none;
+  font-size: 16px;">Facebook Event Page</a></li>
+  <li style="float: left;"><a href="https://au.linkedin.com/company/unsw-asean-conference" style="display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: avenir;
+  text-decoration: none;
+  font-size: 16px;">Linkedin Page</a></li>
+  <li style="float: left;"><a href="https://www.unswaseanconference.com/" style="display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: avenir;
+  text-decoration: none;
+  font-size: 16px;">Our Website</a></li>
+</ul></nav>
+
+<section style="background-color: white;
+border-style: solid;
+border-width: 5px;
+border-color: #0a3a5b;">
+<div style="max-width: 500px; padding-left: 45px; padding-right: 45px; padding-top: 45px;"><h1 style="color: #f6ac37;
+  font-size: 16px;
+  font-family: baskerville;">Hey, {{First Name}},</h1>
+<p style="font-family: avenir;
+  font-size: 14px;">Hope your Week 2 is going great!</p>
+<p style="font-family: avenir;
+  font-size: 14px;">This is just a friendly reminder that UNSW ASEAN Conference’s early bird tickets are closing tonight, Tuesday 24/09/2019. If you’ve yet to get your tickets, </p>
+<p style="font-family: avenir;
+  font-size: 14px;"><center><button a="bit.ly/UACREGO19" style="background-color: #0a3a5b;
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;">Grab one now here!</button></center></p>
+<p style="font-family: avenir;
+  font-size: 14px;">At UNSW ASEAN Conference, you not only have the opportunity to network and engage with valuable key people and like-minded peers, you are also able to learn and discuss issues regarding ASEAN's current position in economic, politics and culture. We have speakers coming from different parts of Australia and various ASEAN countries. Renowned academics and experts such as {{Speaker's Name 1}}, {{Speakers' field 1}}; {{Speaker's Name 2}}, {{Speakers' field 2}} will be delivering speeches full of juicy content you won’t want to miss!</p>
+<p style="font-family: avenir;
+  font-size: 14px;">Since you are a {{Field of study}} student, we think you might be interested in our {{Session of interest}} as {{reason}}.</p>
+<p style="font-family: avenir;
+  font-size: 14px;">For more information and updates about the conference, speakers or even articles relating to your fields of interest in ASEAN, follow the links down below! </p>
+<p style="font-family: avenir;
+  font-size: 14px;">You can also get in direct contact with us by replying to this email.
+<br><br>
+<img src="https://i1347.photobucket.com/albums/p701/whosmoli/footer_zpsf4jiu3wb.png" style="max-width: 100%;"/></p>
+</div>
+</section>
+</body>
+</html>
